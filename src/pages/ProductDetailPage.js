@@ -10,7 +10,6 @@ const ProductDetailPage = ({ addToCart }) => {
   const [product, setProduct] = useState(null);
 
   useEffect(() => {
-    // Fetch product data from your JSON Server
     fetch(`http://localhost:3001/products/${productId}`)
       .then((response) => response.json())
       .then((data) => setProduct(data))
