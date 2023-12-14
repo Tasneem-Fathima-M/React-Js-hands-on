@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Casual Shirt",
+      "price": 20,
+      "description": "Casual Beige Solid Shirt - Mandy",
+      "image": "https://blackberrys.com/cdn/shop/files/printed-formal-shirt-in-navy-ritz-blackberrys-clothing-1_227789b8-629f-46b7-a8b6-3bcdcf327ef6.jpg?v=1685950718"
+    },
+    {
+      "id": 2,
+      "name": "Formal Shirt",
+      "price": 30,
+      "description": "Men White Classic Solid Formal Shirt",
+      "image": "https://i5.walmartimages.com/asr/01d72b07-f386-4fd4-93df-f35b936ddb4f.1bad60a1803edb3555c4b5a9268e0474.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Formal Shirt 1",
+      "price": 40,
+      "description": "Men Blue Regular Fit Solid Sustainable Casual Denim Shirt",
+      "image": "https://ae01.alicdn.com/kf/HTB1AFALJXXXXXX1XFXXq6xXFXXXU/Best-flower-Floral-casual-shirt-men-big-yards-Slim-long-sleeve-shirt-men-fashion-brand-cotton.jpg"
+    },
+    {
+      "id": 4,
+      "name": "HERE&NOW",
+      "price": 40,
+      "description": "Men White & Red Slim Fit Checked Casual Shirt",
+      "image": "https://th.bing.com/th/id/OIP.t-X9HgKKfPEYuwDelilZWgHaHZ?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 5,
+      "name": "HIGHLANDER",
+      "price": 40,
+      "description": "Men Blue & White Slim Fit Checked Cotton Linen Casual Shirt",
+      "image": "https://cdnp.sanmar.com/medias/sys_master/images/images/h96/hc0/8851954663454/3499-LightBlue-1-L612LightBlueModelFront-1200W.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Roadster",
+      "price": 40,
+      "description": "Men Black Pure Cotton Solid Sustainable Casual Shirt",
+      "image": "https://www.2tall.com/media/catalog/product/cache/f530d5fa46c03b0d38848e5b057dc5d3/t/-/t-shirt_black_logo_front_1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Temptech",
+      "price": 40,
+      "description": "Formal White Solid Shirt - Antony",
+      "image": "https://th.bing.com/th/id/OIP.f1jIC9dLPRYVxH37GJKSuwHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 8,
+      "name": "Fitted poplin shirt",
+      "price": 40,
+      "description": "Lyst - Polo Ralph Lauren Long Sleeve Linen Shirt in Orange for Men",
+      "image": "https://modone.com/eng_pl_Mens-plain-t-shirt-S1323-light-blue-15421_1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Formal Wine Striped Shirt",
+      "price": 40,
+      "description": "Polo Ralph Lauren Casual shirts and button-up shirts for Men",
+      "image": "https://th.bing.com/th/id/OIP.DSjZPk9uy01_f2ox4Q5QPgHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 10,
+      "name": "Casual Shirt 1",
+      "price": 40,
+      "description": "Temptech Formal White Solid Shirt - Antony",
+      "image": "https://cdnp.sanmar.com/medias/sys_master/images/images/h96/hc0/8851954663454/3499-LightBlue-1-L612LightBlueModelFront-1200W.jpg"
+    }
+  ]
+}
